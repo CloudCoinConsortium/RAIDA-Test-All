@@ -1,0 +1,6 @@
+W:\Code\C# Windows\Test All\Test All\bin\Debug\Test All.exe.config
+W:\Code\C# Windows\Test All\Test All\obj\Debug\Test All.csprojResolveAssemblyReference.cache
+W:\Code\C# Windows\Test All\Test All\bin\Debug\Test All.exe
+W:\Code\C# Windows\Test All\Test All\bin\Debug\Test All.pdb
+W:\Code\C# Windows\Test All\Test All\obj\Debug\Test All.exe
+W:\Code\C# Windows\Test All\Test All\obj\Debug\Test All.pdb
